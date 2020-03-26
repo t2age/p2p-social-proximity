@@ -62,9 +62,14 @@ P2P WebCam Photo
 https://github.com/t2age/p2p-webcam-photo  
   
   
-Screenshot, Walktalk... will be soon...  
+P2P ScreenShot  
+https://github.com/t2age/p2p-screenshot  
   
-All stuff inside this "T2AGE" repository...  
+P2P Walkie Talkie  
+https://github.com/t2age/p2p-walktalk  
+  
+  
+And all stuff inside this "T2AGE" repository...  
   
   
 .
