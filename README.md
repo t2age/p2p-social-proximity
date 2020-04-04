@@ -70,6 +70,10 @@ https://github.com/t2age/p2p-walktalk
 WL Cryptography Tutorial  
 https://github.com/t2age/wl-cryptography  
   
+A Social Proximity Walkie Talkie Tutorial/Prototype  
+https://github.com/t2age/socioprox  
+  
+
   
 And all stuff inside this "T2AGE" repository...  
   
